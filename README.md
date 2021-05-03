@@ -4,8 +4,6 @@
 - This PA will give you an opportunity to reflect on how you work through
 programs.
 
-You will also submit a survey (required) about your experience in the course.
-
 ## Submission checklist
   - `[ ]` PDF to Gradescope assignment `pa6-notes`
   - `[ ]` Two code files for completed tasks to `pa6-code` (just two of four programs need to be completed)
@@ -24,8 +22,7 @@ anywhere other than to hand in the assignment.
 
 ## Task
 
-Make a copy of [this Google
-Doc](https://docs.google.com/document/d/1pbXuHp-_2wKZR9o44laLOJ45Q9tjFgm9OdC_Pin73Hw/edit?usp=sharing).
+Make a copy of [this Doc](https://github.com/CSE11-SP21-Assignments/cse-11-sp21-pa6-starter/blob/main/CSE11S20%20PA6%20Template.docx).
 You will fill it in as you work.
 
 Your task is to complete **two** of the following programs of your choice,
