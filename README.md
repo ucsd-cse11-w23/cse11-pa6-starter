@@ -76,7 +76,7 @@ greater (the returned array might be **shorter** than the input array). Write
 at least 4 `checkExpect` tests for it to cover interesting cases.
 
 - Copy the `Point` class from the [regions
-code](https://github.com/ucsd-cse11-s20/08-Abstract-Classes) in lecture into
+code](https://github.com/CSE11-SP21-Assignments/cse-11-sp21-pa6-starter/blob/main/ExamplesRegion.java) in lecture into
 a new file called `ClosestPoints.java`. Write a class called `ClosestPoints`
 with a `main` method that expects to get six command line arguments,
 representing the x and y coordinates of three points. For example:
