@@ -1,5 +1,7 @@
 # PA6 -- Programming Workflow
 
+### Due Date: Sunday, August 22, 11:59PM Pacific Time
+
 ## Learning Goals 
 - This PA will give you an opportunity to reflect on how you work through
 programs.
@@ -22,7 +24,7 @@ anywhere other than to hand in the assignment.
 
 ## Task
 
-Make a copy of [this Doc](https://github.com/CSE11-SU121-Assignments/cse-11-pa6-starter/blob/f49e88fe8f348196c95a65fb5c6a158dfc6e04eb/CSE11SU121%20PA6%20Template.docx).
+Make a copy of [this Doc](https://github.com/CSE11-SU21-Assignments/cse-11-pa6-starter/blob/f49e88fe8f348196c95a65fb5c6a158dfc6e04eb/CSE11SU121%20PA6%20Template.docx).
 You will fill it in as you work.
 
 Your task is to complete **two** of the following programs of your choice,
